@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Pandey</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwwxThvN27agMA75bi18jkPkj2Patv5UpYQ&usqp=CAU)>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya1608&label=Profile%20views&color=0e75b6&style=flat" alt="ananya1608" /> </p>
 
@@ -16,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya1608&show_icons=true&locale=en&layout=compact" alt="ananya1608" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya1608&" alt="ananya1608" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANANYA1608&" alt="ananya1608" /></p>
