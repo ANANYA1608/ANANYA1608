@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya1608&label=Profile%20views&color=0e75b6&style=flat" alt="ananya1608" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya1608&label=Profile%20views&color=0e75b6&style=flat" alt="ananya1608" /> </p> 
 
 - 📫 How to reach me **ananyapandey86309@gmail.com**
 
